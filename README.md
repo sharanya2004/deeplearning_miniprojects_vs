@@ -1,3 +1,3 @@
-# deeplearning_miniprojects_vs
-# Thus project is conducted using lstm on Twitter airlines dataset
-# twitter airline dataset is downloaded from Kaggle
+deeplearning_miniprojects_vs
+This project is conducted using lstm on the Twitter airlines dataset
+Twitter airline dataset is downloaded from Kaggle
